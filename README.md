@@ -1,4 +1,4 @@
-### 雷好 😄
+### Hi!
 
 ![info](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
 
