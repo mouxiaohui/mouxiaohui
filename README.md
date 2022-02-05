@@ -8,3 +8,4 @@
 ![](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://badgen.net/badge/icon/firefox?icon=firefox&label)
 
+![](static/rust.svg)
