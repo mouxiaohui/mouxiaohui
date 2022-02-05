@@ -1,11 +1,10 @@
-### Hi!
+### `Hi!`
 
-![info](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
+<!-- 
+Theme: [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
+-->
+![info](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&hide=prs&theme=dark)
 
-<!-- label -->
-![](https://badgen.net/badge/icon/windows?icon=windows&label)
-![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-![](https://badgen.net/badge/icon/github?icon=github&label)
-![](https://badgen.net/badge/icon/firefox?icon=firefox&label)
-
-![](static/rust.svg)
+<img src="./static/language/rust.svg" width = "50">
+<img src="static/language/golang.svg" width = "50">
+<img src="./static/language/javascript.svg" width = "50">
