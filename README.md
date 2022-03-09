@@ -28,17 +28,8 @@
 
 ---
 
-<div align="center">
-
-![info](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=c3a56d&hide=issues,contribs)
-
-</div>
-
-<div align="center">
 <!--
 Theme: [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&layout=compact&theme=dark&hide_border=true&title_color=c3a56d)
-
-</div>
+![xiaohui's gitHub stats](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=779649&hide=contribs)<img align="right" width="335px" alt="Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&layout=compact&theme=dark&hide_border=true&title_color=779649"/>
