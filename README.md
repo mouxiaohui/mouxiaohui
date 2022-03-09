@@ -16,13 +16,13 @@
     <img src="./static/language/rust.svg" width="30" height="30"></img>
   </a>
   <a href="https://golang.org" target="_blank">
-    <img src="./static/language/golang.svg" width="30" height="30"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="30" height="30"></img>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="./static/language/typescript.svg" width="30" height="30"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"></img>
   </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank">
-    <img src="./static/language/javascript.svg" width="30" height="30"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"></img>
   </a>
 </p>
 
