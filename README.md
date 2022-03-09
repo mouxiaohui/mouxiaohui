@@ -22,7 +22,7 @@
     <img src="./static/language/typescript.svg" width="30" height="30"></img>
   </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank">
-    <img src="static/language/JavaScript.svg" width="30" height="30"></img>
+    <img src="./static/language/javascript.svg" width="30" height="30"></img>
   </a>
 </p>
 
