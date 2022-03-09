@@ -22,7 +22,7 @@
     <img src="./static/language/typescript.svg" width="30" height="30"></img>
   </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank">
-    <img src="./static/language/javaScript.svg" width="30" height="30"></img>
+    <img src="static/language/JavaScript.svg" width="30" height="30"></img>
   </a>
 </p>
 
@@ -42,10 +42,3 @@ Theme: [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&layout=compact&theme=dark&hide_border=true&title_color=c3a56d)
 
 </div>
-
-<!-- <div align="center">
-<span><img src="./static/language/rust.svg" width = "50"></span>
-<span><img src="static/language/golang.svg" width = "50"></span>
-<span><img src="./static/language/typescript.svg" width = "50"></span>
-<span><img src="./static/language/javascript.svg" width = "50"></span>
-</div> -->
