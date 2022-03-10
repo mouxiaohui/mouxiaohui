@@ -11,25 +11,9 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="./static/language/rust.svg" width="30" height="30"></img>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="30" height="30"></img>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"></img>
-  </a>
-  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"></img>
-  </a>
-</p>
-
----
-
 <!--
 Theme: [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
 -->
-
-![xiaohui's gitHub stats](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=779649&hide=contribs)<img align="right" width="285px" alt="Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&theme=dark&hide_border=true&title_color=779649"/>
+|||
+|:---:|:---:|
+|[![git stats](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=779649&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&theme=dark&hide_border=true&title_color=779649&layout=compact)](https://wakatime.com/Ethosa)|
