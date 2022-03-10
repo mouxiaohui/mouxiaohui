@@ -14,6 +14,6 @@
 <!--
 Theme: [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
 -->
-|||
+|⭐|🔥|
 |:---:|:---:|
 |[![git stats](https://github-readme-stats.vercel.app/api?username=mouxiaohui&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=779649&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mouxiaohui&theme=dark&hide_border=true&title_color=779649&layout=compact)](https://wakatime.com/Ethosa)|
